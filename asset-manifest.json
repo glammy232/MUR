@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.343a3779.css",
+    "main.js": "/static/js/main.0dfc5b71.js",
+    "static/js/453.9dcf8f81.chunk.js": "/static/js/453.9dcf8f81.chunk.js",
+    "static/media/photo0.png": "/static/media/photo0.828b5c24d272913ad6d6.png",
+    "static/media/photo8.png": "/static/media/photo8.155fe2845587dc599b5d.png",
+    "static/media/photo4.png": "/static/media/photo4.254e72f700d40a7412d7.png",
+    "static/media/photo2.png": "/static/media/photo2.46339fe28781f78b86ae.png",
+    "static/media/photo10.png": "/static/media/photo10.fff6501fa357ef79c696.png",
+    "static/media/mainBackground.png": "/static/media/mainBackground.fac756eb3129308256ed.png",
+    "static/media/secondBackground.png": "/static/media/secondBackground.2b93c05bb74bda62f196.png",
+    "static/media/item5.png": "/static/media/item5.ba5895cd7bc99a08e711.png",
+    "static/media/item3.png": "/static/media/item3.9487b25d2aa8b5b4dcd9.png",
+    "static/media/photo1.png": "/static/media/photo1.e79adeceec4ef0859e78.png",
+    "static/media/photo3.png": "/static/media/photo3.779a6e5d29a1155191cc.png",
+    "static/media/photo7.png": "/static/media/photo7.46058ea4e154b8f84880.png",
+    "static/media/item4.png": "/static/media/item4.b5971b39ca4e52a55d04.png",
+    "static/media/item2.png": "/static/media/item2.00a15f059d03f4a14a64.png",
+    "static/media/photo5.png": "/static/media/photo5.15ab085a8a87eb99584b.png",
+    "static/media/photo6.png": "/static/media/photo6.7fa4edfe2a8cb2cff2d3.png",
+    "static/media/pizdec.png": "/static/media/pizdec.cd73c154357117511a60.png",
+    "static/media/item1.png": "/static/media/item1.08d35ba4db4a1206bfed.png",
+    "static/media/item0.png": "/static/media/item0.771a9cfba22e4a9e82b0.png",
+    "static/media/TTAutonomousMonoTrialBold.ttf": "/static/media/TTAutonomousMonoTrialBold.02b6fe45a42c436d0026.ttf",
+    "static/media/btn4.png": "/static/media/btn4.7d12472d45c4f5898d24.png",
+    "static/media/btn2.png": "/static/media/btn2.0836d9d0279ab790f596.png",
+    "static/media/beer.png": "/static/media/beer.aa7042e9e36135a0cb6e.png",
+    "static/media/btn1.png": "/static/media/btn1.0b9588b8cd5261cbc138.png",
+    "static/media/kojaniyBuben.png": "/static/media/kojaniyBuben.5dbf1bf6e18bb30de4e5.png",
+    "static/media/20db.otf": "/static/media/20db.3951b65fc21dfb02f6b9.otf",
+    "static/media/btn3.png": "/static/media/btn3.f4ac4e5194f9773e9980.png",
+    "static/media/stars.png": "/static/media/stars.843391b0d69734bf2870.png",
+    "index.html": "/index.html",
+    "main.343a3779.css.map": "/static/css/main.343a3779.css.map",
+    "main.0dfc5b71.js.map": "/static/js/main.0dfc5b71.js.map",
+    "453.9dcf8f81.chunk.js.map": "/static/js/453.9dcf8f81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.343a3779.css",
+    "static/js/main.0dfc5b71.js"
+  ]
+}
